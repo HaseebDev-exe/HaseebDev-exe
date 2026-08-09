@@ -27,6 +27,7 @@
 
 ### ⚡ About Me
 
+```
 ╭─────────────────────────────────────────────────────────────────────────╮
 │  👋 Hello & Welcome! I'm Haseeb Asim (HaseebDev-exe)                    │
 │                                                                         │
@@ -35,7 +36,7 @@
 │  ⚙️ Architecting Backends with Spring Boot, FastAPI, Node & Databases   │
 │  🤖 Building Agentic Workflows, Real-Time WebSockets & AI Integrations  │
 ╰─────────────────────────────────────────────────────────────────────────╯
-
+```
 
 - 🔭 **Current Focus**: Mastering Agentic AI workflows (LangGraph/LangChain), high-performance backend patterns, and intuitive UI/UX.
 - 🎨 **Frontend Craft**: Designing responsive, modern, and fluid interfaces with React, Next.js, and Tailwind CSS.
