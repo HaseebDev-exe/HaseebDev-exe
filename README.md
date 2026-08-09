@@ -79,7 +79,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📝 ExamAura - AI</h3>
+      <h3 align="center">📝 ExamAura-AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-2563eb?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/React-dc2626?style=flat-square&logo=react&logoColor=white" />
@@ -87,7 +87,7 @@
       </p>
       <p><b>AI-powered online examination platform</b> featuring multi-role portals, automated assessment, AI checking, exam scheduling, analytics, and proctoring capabilities.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-dc2626?style=flat-square" />
+        <a href="https://github.com/Dev-Rehman6/Exam_Aura"><b>[ View Repo 🔗 ]</b></a>
       </p>
     </td>
   </tr>
@@ -100,14 +100,17 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐾 PetHaven</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-2563eb?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX-dc2626?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p><b>E-commerce desktop application</b> built using clean MVC architecture. Features full user auth, product CRUD operations, inventory control, shopping cart, and secure checkout flows.</p>
-    </td>
+  <h3 align="center">🐾 PetHaven</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-2563eb?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaFX-dc2626?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white" />
+  </p>
+  <p><b>E-commerce desktop application</b> built using clean MVC architecture. Features full user auth, product CRUD operations, inventory control, shopping cart, and secure checkout flows.</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/posts/haseeb-asim-1157a0333_pethaven-javafx-fxml-activity-7361988387815231488-h12y"><b>[ View LinkedIn Post 🔗 ]</b></a>
+  </p>
+</td>
     <td width="50%" valign="top">
       <h3 align="center">🎮 Game4U</h3>
       <p align="center">
