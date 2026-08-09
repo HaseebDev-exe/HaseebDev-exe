@@ -30,9 +30,9 @@
 ```
 ╭─────────────────────────────────────────────────────────────────────────╮
 │  👋 Hello & Welcome! I'm Haseeb Asim (HaseebDev-exe)                    │
-│                                                                         │
-│  💻 Software Engineering Student & Passionate Full Stack Developer     │
-│  🎨 Great with UI/UX, Visual Ergonomics & Modern Frontend Engineering  │
+│                                                                         |
+│  💻 Software Engineering Student & Passionate Full Stack Developer      │
+│  🎨 Great with UI/UX, Visual Ergonomics & Modern Frontend Engineering   │
 │  ⚙️ Architecting Backends with Spring Boot, FastAPI, Node & Databases   │
 │  🤖 Building Agentic Workflows, Real-Time WebSockets & AI Integrations  │
 ╰─────────────────────────────────────────────────────────────────────────╯
