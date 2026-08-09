@@ -43,7 +43,7 @@
 - ⚙️ **Backend Strength**: Robust system design with Java (Spring Boot), Python (FastAPI/Flask), Node.js, and relational/NoSQL databases.
 
 <p align="left">
-  <b>Let's Connect:</b> 
+  <b>Let's Connect: </b> 
   <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/">
     <img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Asim-2563eb?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
