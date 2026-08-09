@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Animated Header with Blue & Red Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:dc2626&height=200&section=header&text=✨%20HASEEB%20ASIM%20✨&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
+<!-- Hacker Retro Matrix Green Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:00ff66,100:003b00&height=200&section=header&text=👾%20>HELLO%20WORLD!_%20🤖&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&font=monospace" width="100%" alt="Header Banner" />
 
 <br>
 
 <a href="https://github.com/HaseebDev-exe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Great+with+UI%2FUX+%F0%9F%8E%A8;Java+%2B+Spring+Boot+%7C+Python+%7C+React;Building+Intelligent+Full-Stack+Apps!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Architect+%F0%9F%8E%A8;Java+%2B+Spring+Boot+%7C+Python+%7C+React;Building+Agentic+AI+%26+Full-Stack+Apps!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%F0%9F%92%BB-2563eb?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%F0%9F%92%BB-218C3A?style=for-the-badge&logoColor=black&labelColor=1e293b" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Speciality-UI%2FUX%20%26%20AI-dc2626?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Speciality-UI%2FUX%20%26%20Frontend%20%F0%9F%8E%A8-78FFA8?style=for-the-badge&logoColor=black&labelColor=1e293b" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-3b82f6?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Status-Software%20Engineer🎓-25BA5C?style=for-the-badge&logoColor=black&labelColor=1e293b" /></a>
 </p>
 
 </div>
@@ -24,14 +24,13 @@
 ### ⚡ About Me
 
 ```
-╭─────────────────────────────────────────────────────────────────────────╮
-│  👋 Hello & Welcome! I'm Haseeb Asim (HaseebDev-exe)                    │
-│                                                                         |
-│  💻 Software Engineering Student & Passionate Full Stack Developer      │
-│  🎨 Great with UI/UX, Visual Ergonomics & Modern Frontend Engineering   │
-│  ⚙️ Architecting Backends with Spring Boot, FastAPI, Node & Databases   │
-│  🤖 Building Agentic Workflows, Real-Time WebSockets & AI Integrations  │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  👋 Identity    : Haseeb Asim [Software Engineering Student]                 │
+│  💻 Core Focus  : Full Stack Engineering & Intelligent Agentic Architectures │
+│  🎨 Visual Arts : Advanced UI/UX, Motion Design & Ergonomic Frontends        │
+│  ⚙️ Backend Shell : Java (Spring Boot), Python (FastAPI/Flask) & Node.js     │
+│  🗄️ Persistence  : MongoDB, MySQL, SQLite                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 - 🔭 **Current Focus**: Mastering Agentic AI workflows (LangGraph/LangChain), high-performance backend patterns, and intuitive UI/UX.
@@ -41,11 +40,11 @@
 ### 🤝 Let's Connect & Build Together
 
 <p align="center">
-  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/GitHub-HaseebDev--exe-1e293b?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/GitHub-HaseebDev--exe-218C3A?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=1e293b" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/"><img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Asim-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/"><img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Asim-25BA5C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:haseebasimkadiwala@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:haseebasimkadiwala@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-78FFA8?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1e293b" /></a>
 </p>
 
 ---
@@ -57,9 +56,9 @@
     <td width="33%" valign="top">
       <h3 align="center">🛡️ ArgusX</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-2563eb?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-dc2626?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-218C3A?style=flat-square&logo=fastapi&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/LangGraph-25BA5C?style=flat-square&logoColor=white&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/Next.js-78FFA8?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=2C3D52" />
       </p>
       <p><b>AI-powered rider safety & situational-awareness system</b>. Processes real-time telemetry using agentic processing, RAG contextual retrieval, WebSockets, and edge-cloud architecture.</p>
       <p align="center">
@@ -69,9 +68,9 @@
     <td width="33%" valign="top">
       <h3 align="center">🎓 CampusFlow</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-2563eb?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-dc2626?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-78FFA8?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/FastAPI-218C3A?style=flat-square&logo=fastapi&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/MongoDB-25BA5C?style=flat-square&logo=mongodb&logoColor=white&labelColor=2C3D52" />
       </p>
       <p><b>Full-stack university management portal</b> with role-based dashboards, real-time WebSocket messaging, AI-assisted grading, dynamic timetables, and task tracking.</p>
       <p align="center">
@@ -81,9 +80,9 @@
     <td width="33%" valign="top">
       <h3 align="center">📝 ExamAura-AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-2563eb?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-dc2626?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-218C3A?style=flat-square&logo=springboot&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/React-78FFA8?style=flat-square&logo=react&logoColor=black&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/MongoDB-25BA5C?style=flat-square&logo=mongodb&logoColor=white&labelColor=2C3D52" />
       </p>
       <p><b>AI-powered online examination platform</b> featuring multi-role portals, automated assessment, AI checking, exam scheduling, analytics, and proctoring capabilities.</p>
       <p align="center">
@@ -100,23 +99,23 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-  <h3 align="center">🐾 PetHaven</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-2563eb?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaFX-dc2626?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white" />
-  </p>
-  <p><b>E-commerce desktop application</b> built using clean MVC architecture. Features full user auth, product CRUD operations, inventory control, shopping cart, and secure checkout flows.</p>
-  <p align="center">
-    <a href="https://www.linkedin.com/posts/haseeb-asim-1157a0333_pethaven-javafx-fxml-activity-7361988387815231488-h12y"><b>[ View LinkedIn Post 🔗 ]</b></a>
-  </p>
-</td>
+      <h3 align="center">🐾 PetHaven</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-218C3A?style=flat-square&logo=openjdk&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/JavaFX-25BA5C?style=flat-square&logo=java&logoColor=white&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/MySQL-78FFA8?style=flat-square&logo=mysql&logoColor=black&labelColor=2C3D52" />
+      </p>
+      <p><b>E-commerce desktop application</b> built using clean MVC architecture. Features full user auth, product CRUD operations, inventory control, shopping cart, and secure checkout flows.</p>
+      <p align="center">
+        <a href="https://www.linkedin.com/posts/haseeb-asim-1157a0333_pethaven-javafx-fxml-activity-7361988387815231488-h12y"><b>[ View LinkedIn Post 🔗 ]</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🎮 Game4U</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-2563eb?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-dc2626?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web-1e293b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring_Boot-218C3A?style=flat-square&logo=springboot&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/React-78FFA8?style=flat-square&logo=react&logoColor=black&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/Web-25BA5C?style=flat-square&logoColor=white&labelColor=2C3D52" />
       </p>
       <p><b>Interactive web gaming platform</b> combining a dynamic frontend with a robust Java backend to offer browser games and interactive gaming utilities.</p>
       <p align="center">
@@ -153,7 +152,7 @@
 </p>
 
 <p align="center">
-  <b>🔴 Backend Frameworks & Systems</b><br>
+  <b>⚙️ Backend Frameworks & Systems</b><br>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -175,22 +174,13 @@
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaseebDev-exe&show_icons=true&theme=tokyonight&title_color=3b82f6&icon_color=dc2626&text_color=ffffff&bg_color=0f172a&border_color=2563eb&border_radius=10" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebDev-exe&layout=compact&theme=tokyonight&title_color=dc2626&text_color=ffffff&bg_color=0f172a&border_color=dc2626&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=dc2626&center=true&vCenter=true&width=500&lines=Code+Learn+Build+Repeat;Crafting+Intelligent+Full-Stack+Systems" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=800&color=00FF66&center=true&vCenter=true&width=500&lines=System.out.println(%22Build+Repeat%22)%3B;Crafting+Intelligent+Full-Stack+Systems..." alt="Footer Typing" />
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=HaseebDev-exe&color=2563eb&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HaseebDev-exe&color=218C3A&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
   <br><br>
 
