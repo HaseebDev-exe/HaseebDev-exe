@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HaseebDev-exe/HaseebDev-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi, I'm Haseeb Asim 👋</h1>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <strong>Full Stack Developer | UI/UX Enthusiast | Software Engineering Student</strong>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    Building intelligent full-stack systems, interactive web applications, and desktop solutions using Java, Spring Boot, Python, and React.
+  </p>
+
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:haseebasimkadiwala@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```text
+Software Engineering Student passionate about architecting end-to-end full-stack applications.
+Driven by clean UI/UX, agentic AI integration, real-time WebSockets, and robust backend engineering.
