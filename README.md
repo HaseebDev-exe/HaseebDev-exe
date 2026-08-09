@@ -10,15 +10,11 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/HaseebDev-exe">
-    <img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%F0%9F%92%BB-2563eb?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/HaseebDev-exe">
-    <img src="https://img.shields.io/badge/Speciality-UI%2FUX%20%26%20AI-dc2626?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/HaseebDev-exe">
-    <img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-3b82f6?style=for-the-badge&logoColor=white" />
-  </a>
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev%20%F0%9F%92%BB-2563eb?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Speciality-UI%2FUX%20%26%20AI-dc2626?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-3b82f6?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 </div>
@@ -42,17 +38,14 @@
 - 🎨 **Frontend Craft**: Designing responsive, modern, and fluid interfaces with React, Next.js, and Tailwind CSS.
 - ⚙️ **Backend Strength**: Robust system design with Java (Spring Boot), Python (FastAPI/Flask), Node.js, and relational/NoSQL databases.
 
-<p align="left">
-  <b>Let's Connect: </b> 
-  <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/">
-    <img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Asim-2563eb?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:haseebasimkadiwala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-dc2626?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HaseebDev-exe">
-    <img src="https://img.shields.io/badge/GitHub-HaseebDev--exe-1e293b?style=flat-square&logo=github&logoColor=white" />
-  </a>
+### 🤝 Let's Connect & Build Together
+
+<p align="center">
+  <a href="https://github.com/HaseebDev-exe"><img src="https://img.shields.io/badge/GitHub-HaseebDev--exe-1e293b?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/haseeb-asim-1157a0333/"><img src="https://img.shields.io/badge/LinkedIn-Haseeb%20Asim-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:haseebasimkadiwala@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
