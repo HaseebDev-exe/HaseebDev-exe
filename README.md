@@ -54,6 +54,18 @@
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
+      <h3 align="center">👨‍🍳 Bawarchee</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full_Stack-218C3A?style=flat-square&logoColor=00FF66&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/Web_App-25BA5C?style=flat-square&logoColor=white&labelColor=2C3D52" />
+        <img src="https://img.shields.io/badge/UI%2FUX-78FFA8?style=flat-square&logoColor=black&labelColor=2C3D52" />
+      </p>
+      <p><b>Interactive culinary & recipe management application</b> designed for streamlined kitchen workflows, ingredient curation, and culinary exploration with an intuitive user interface.</p>
+      <p align="center">
+        <a href="https://github.com/HaseebDev-exe/Bawarchee"><b>[ View Repo 🔗 ]</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🛡️ ArgusX</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-218C3A?style=flat-square&logo=fastapi&logoColor=00FF66&labelColor=2C3D52" />
@@ -77,6 +89,15 @@
         <a href="https://github.com/nemzil/CampusFlow"><b>[ View Repo 🔗 ]</b></a>
       </p>
     </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔥 Click to expand more featured projects</b></summary>
+<br>
+
+<table align="center" width="100%">
+  <tr>
     <td width="33%" valign="top">
       <h3 align="center">📝 ExamAura-AI</h3>
       <p align="center">
@@ -89,16 +110,7 @@
         <a href="https://github.com/Dev-Rehman6/Exam_Aura"><b>[ View Repo 🔗 ]</b></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🔥 Click to expand more featured projects</b></summary>
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🐾 PetHaven</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-218C3A?style=flat-square&logo=openjdk&logoColor=00FF66&labelColor=2C3D52" />
@@ -110,7 +122,7 @@
         <a href="https://www.linkedin.com/posts/haseeb-asim-1157a0333_pethaven-javafx-fxml-activity-7361988387815231488-h12y"><b>[ View LinkedIn Post 🔗 ]</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🎮 Game4U</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-218C3A?style=flat-square&logo=springboot&logoColor=00FF66&labelColor=2C3D52" />
