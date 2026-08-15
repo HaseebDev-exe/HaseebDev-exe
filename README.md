@@ -86,7 +86,7 @@
       </p>
       <p><b>Full-stack university management portal</b> with role-based dashboards, real-time WebSocket messaging, AI-assisted grading, dynamic timetables, and task tracking.</p>
       <p align="center">
-        <a href="https://github.com/nemzil/CampusFlow"><b>[ View Repo 🔗 ]</b></a>
+        <a href="https://github.com/HaseebDev-exe/CampusFlow"><b>[ View Repo 🔗 ]</b></a>
       </p>
     </td>
   </tr>
